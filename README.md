@@ -45,7 +45,7 @@ Task 2: Dig into gsearch nonbrand--Gsearch conversion rate: calculate the conver
 
 
 
-Task3: New Gsearch volume trends: pull gsearch nonbrand trended session volume, by week, to see if the bid changes have caused volume to drop at all
+Task 3: New Gsearch volume trends: pull gsearch nonbrand trended session volume, by week, to see if the bid changes have caused volume to drop at all
 
 
 
@@ -53,13 +53,13 @@ Task3: New Gsearch volume trends: pull gsearch nonbrand trended session volume, 
 
 
 
-Task4:Gsearch device-level performance:  pull conversion rates from session to order, by device type
+Task 4:Gsearch device-level performance:  pull conversion rates from session to order, by device type
 
 
 <img width="224" alt="image" src="https://user-images.githubusercontent.com/74843963/198990637-ccceb573-cb69-4794-aac2-d55d62774297.png">
 
 
-Task5:Adguested Gsearch device-level trends(Check):pull weekly trends for both desktop and mobile to see the impact on volume
+Task 5:Gsearch device-level trends(Check):pull weekly trends for both desktop and mobile to see the impact on volume
 
 
 <img width="253" alt="image" src="https://user-images.githubusercontent.com/74843963/198990700-5c11f392-f5aa-423c-9d66-8241a9b4b433.png">
